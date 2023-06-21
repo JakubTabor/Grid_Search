@@ -4,3 +4,4 @@ I gonna show how to search for best parameters in your model, with different exa
 # So first i import datasets and load iris data from datasets
 # Then I put iris data into pandas Dataframe and set columns as features of iris and set flower column as my target column
 # Then I apply on target column names of flowers, my data is read, I have names of flowers and their features and all is labeled
+# Now I import train_test_split and get train and test set, I use iris.data as X and iris.target as y
