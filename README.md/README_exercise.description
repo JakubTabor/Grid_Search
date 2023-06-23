@@ -7,3 +7,4 @@ I gonna show how to search for best parameters in your model, with different exa
 # Now I import train_test_split and get train and test set, I use iris.data as X and iris.target as y
 # Then I import GridSearchCV which is the model to search for best parameters
 # And I gonna import also models for training, (svm, RandomForestClassifier, LogisticRegression)
+# Now I gonna save models params, so I put some parameters and GridSearchCV will check every combination and return the best
