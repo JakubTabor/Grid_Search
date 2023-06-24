@@ -11,3 +11,4 @@ I gonna show how to search for best parameters in your model, with different exa
 # First i set model name, then put model itself and finally parameters, I do it for my three models
 # When I have all "model_params" prepared, I can implement "GridSearchCV" 
 # So I start with create list for scores, than I start for loop for model names and model parameters in my saved params, with access to items
+# Then I create object of GridSearchCV puting inside models and parameters, then cv parameter, where i epecify number of folds
