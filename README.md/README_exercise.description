@@ -13,3 +13,4 @@ I gonna show how to search for best parameters in your model, with different exa
 # So I start with create list for scores, than I start for loop for model names and model parameters in my saved params, with access to items
 # Then I create object of GridSearchCV puting inside models and parameters, then cv parameter, where i epecify number of folds
 # I set "return_train_score to False", so it will not include training scores
+# Then I train GridSearchCV with (iris.data and iris.target), And not I choose which parameters will append 
