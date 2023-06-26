@@ -16,3 +16,4 @@ I gonna show how to search for best parameters in your model, with different exa
 # Then I train GridSearchCV with (iris.data and iris.target), And not I choose which parameters will append in my list 
 # So I choose first model name, then best score which I get using "best_score_ from my model" and also best parameters using "best_params_ from my model"
 # I put my data into pd.DataFrame and pass previous filled scores list and columns for better description
+# And I get each model with best score and best parameters, scores are pretty high, but my data was not so complicated
