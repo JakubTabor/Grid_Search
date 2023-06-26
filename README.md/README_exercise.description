@@ -18,3 +18,5 @@ I gonna show how to search for best parameters in your model, with different exa
 # I put my data into pd.DataFrame and pass previous filled scores list and columns for better description
 # And I get each model with best score and best parameters, scores are pretty high, but my data was not so complicated
 # This is a common technique when you search for best parameters for your model, I put only few parameters buy there are lot of parameters which you can check
+# Searching for best model and best parameters is an trail and error tehnic, You need to give differen parameters to your model
+# and some parameters are 
