@@ -1,2 +1,3 @@
 # I gonna show some examples how to use GridSearchCV, on more complicated dataset and also check performance of some model and Neural Network
 # First I load my dataset and pass columns for better description, class (g and h) are gamma and hadron
+# Then I map my columns class into numeric variables, one for gamma and zero for hadron
