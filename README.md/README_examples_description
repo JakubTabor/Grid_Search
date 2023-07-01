@@ -12,3 +12,4 @@
 # Then I create object of class "RandomOverSampler" and use method "fit_resample" on X and y variables, I save it as X and y
 # Next I need to stack my both variables and create new data of them 
 # To do this I gonna use "numpy hstack", on X variable and y variable, but reshape into 2D object and save this operation as "data"  
+# I gonna return from my function new "data", but also X and y
