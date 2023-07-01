@@ -6,3 +6,4 @@
 # Now I gonna split my data into train, test and valid sets, I use for it numpy split, first shuffling samples
 # First split will be on 60% of my data and next of 80% of my data, than I check size of my classes, I see that there is imbalance
 # I gonna use over sampling method, so I import "RandomOverSampler", next I create function that will oversample my data and scale them
+# So I create function "scale_dataset" and as arguments put (dataframe and oversample set to False), I gonna choose which sets I want to oversample
