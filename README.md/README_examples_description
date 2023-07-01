@@ -9,3 +9,4 @@
 # So I create function "scale_dataset" and as arguments put (dataframe and oversample set to False), I gonna choose which sets I want to oversample
 # I define X and y variables, which will be columns from my dataframe, y as the last and X as rest of them
 # Now I create objects of my scaler, and use "fit_transform" of X variable to scale all columns
+# Then I create object of class "RandomOverSampler" and use method "fit_resample" on X and y variables, I save it as X and y
