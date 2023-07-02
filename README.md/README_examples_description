@@ -13,3 +13,4 @@
 # Next I need to stack my both variables and create new data of them 
 # To do this I gonna use "numpy hstack", on X variable and y variable, but reshape into 2D object and save this operation as "data"  
 # I gonna return from my function new "data", but also X and y
+# Then I prepare train, valid and test sets, with use of my function "scale_dataset", for my train sets I set oversample 
