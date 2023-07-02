@@ -16,4 +16,4 @@
 # Then I prepare train, valid and test sets, with use of my function "scale_dataset", for my train sets I set oversample 
 # But for valid and test sets I set (oversample to False), because I want to measure performance of my model with this sets
 # Now when I have my sets I can import some model to measure their performance on my dataset, it will be(svm, LogisticRegression, KNeighborsClassifier and GaussianNB)
-# 
+# Then I import "GridSearchCV" which help me find the best parameters for my models
