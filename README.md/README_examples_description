@@ -18,3 +18,4 @@
 # Now when I have my sets I can import some model to measure their performance on my dataset, it will be(svm, LogisticRegression, KNeighborsClassifier and GaussianNB)
 # Then I import "GridSearchCV" which help me find the best parameters for my models
 # So first I put name of my model, then models itself, with some parameters that I want to mesure 
+# Next I put parameters, there are parameters that have the most significant impact on model performance
