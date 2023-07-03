@@ -21,3 +21,4 @@
 # Next I put parameters, there are parameters that have the most significant impact on model performance
 # I you want to get better accuracy you need to put more parameters and your model will check all of them
 # Now when I pass all params and model I save it all as "model_params" and put my data to "pd.DataFrame"
+# Then I gonna prepare "GridSearchCV", so I create list for all scores and make for loop for model name and model params in my variable that contain "model_params"
