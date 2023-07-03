@@ -20,3 +20,4 @@
 # So first I put name of my model, then models itself, with some parameters that I want to mesure 
 # Next I put parameters, there are parameters that have the most significant impact on model performance
 # I you want to get better accuracy you need to put more parameters and your model will check all of them
+# Now when I pass all params and model I save it all as "model_params" and put my data to "pd.DataFrame"
