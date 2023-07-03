@@ -24,3 +24,4 @@
 # Then I gonna prepare "GridSearchCV", so I create list for all scores and make (for loop for model name and model params) in my variable that contain "model_params"
 # Next I create object of "GridSearchCV", then pass (model and parameters), and set five folds (cv = 5), and specify that will not include training scores
 # Then I train my "GridSearchCV" and specify what will append in scores, so I want here ( model name, best score and best params)
+# Finally my "GridSearchCV" will return me all of this in "DataFrame", I pass here prepared variable "scores" and named columns of my data
