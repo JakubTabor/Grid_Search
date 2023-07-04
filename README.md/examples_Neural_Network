@@ -1,2 +1,3 @@
 # Now I gonna build a Neural Network to deal with this task
-#I gonna search for the best parameters and write plot function to plot on graph all results
+# I gonna search for the best parameters and write plot function to plot on graph all results
+# So I define my function, which will plot on graph history of my model, I will plot it with "subplots"
