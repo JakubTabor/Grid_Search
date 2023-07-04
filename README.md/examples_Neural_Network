@@ -3,3 +3,4 @@
 # So I define my function, which will plot on graph history of my model, I will plot it with "subplots"
 # First I definne "loss" of my model from history, then "validation loss" during the training
 # Then named (x axis and y axis) as (Epoch and Binary crossentropy)
+# Secound plot will be with (accuracy and validation accuracy) and also I named (x axis and y axis) as (Epoch and Accuracy)
