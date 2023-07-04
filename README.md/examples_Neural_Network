@@ -6,3 +6,4 @@
 # Secound plot will be with (accuracy and validation accuracy) and also I named (x axis and y axis) as (Epoch and Accuracy)
 # Now when I have defined plot function I import tensorflow to build my model
 # I create function "train_model" and pass inside (X_train, y_train for training)
+# I pass also "num_nodes", so (neurons to define them later), I do exactly this same with (dropout_prob, to pass numbers later) 
