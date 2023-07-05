@@ -10,3 +10,4 @@
 # And also I pass "learning rate" to specify later values, as well as "batch size" and "epochs"
 # Then I specify my model, it will be normal Neural network, so I call tensorflow keras Sequential model
 # But instead of passing exact values I gonna pass previous defined variables to specify them later in parameters training
+# I pass first "Dense layer" and put inside my variable responsible for neurons, then activation and shape, it will be ten classes in my dataset
