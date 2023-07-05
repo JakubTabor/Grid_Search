@@ -9,3 +9,4 @@
 # I pass also "num_nodes", so (neurons to define them later), I do exactly this same with (dropout_prob, to pass numbers later) 
 # And also I pass "learning rate" to specify later values, as well as "batch size" and "epochs"
 # Then I specify my model, it will be normal Neural network, so I call tensorflow keras Sequential model
+# But instead of passing exact values I gonna pass previous defined variables to specify them later in parameters training
