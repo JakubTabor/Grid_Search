@@ -14,3 +14,4 @@
 # Next I pass "Dropout layer" and put inside "variavle dropout_prob", which correspond for dropping neurons 
 # Then I pass another "Dense layer", same as previous and after also "Dropout layer"
 # And I pass last Output layer" with one neuron and activation "sigmoid"
+# Now I compile my model with optimizer as "adam" "tf.keras.optimizers.Adam" and add variable "lr" to specify later numbers for learning rate
