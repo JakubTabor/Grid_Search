@@ -18,3 +18,4 @@
 # And loss will be "binary_crossentropy" for my binary output, metrics as "accuracy"
 # I save training process of my model as history to plot it later on graph
 # I use "X_train and y_train" as training data, than pass "epochs variable", I also pass "batch_size  variable"
+# Then I set "validation_split" at (0.2), now its time to set hyperparameters
