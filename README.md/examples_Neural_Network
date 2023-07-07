@@ -22,3 +22,4 @@
 # I set epochs to (50), then I make for loop for "hyperparameters", first I set some numbers for "num_nodes"
 # Next I set some numbers for "dropout_prob", then for learning rate and for batch size, there are the most popular options
 # I set print option for every parameter, so it gonna show all parameters under the graph
+# Then I make model training and call plot function on history variable of my model
