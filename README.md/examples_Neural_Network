@@ -25,3 +25,4 @@
 # Then I make model training and call plot function on history variable of my model
 # I also make evaluation of my model on (X_valid and y_valid), I save it as "val_loss"
 # And in the end i put condition for my hyperparameter loop (if val_loss variable is less than least val_loss) it will become it
+# This variable "least_loss_model" is equal to "model"
