@@ -27,3 +27,4 @@
 # And in the end i put condition for my hyperparameter loop (if val_loss variable is less than least val_loss) it will become it
 # This variable "least_loss_model" is equal to "model"
 # And then all stars, so i get graphs with training and evaluation, below all parameters
+# I can see that all parameters are changing after every epoch and accuracy is around 86%
