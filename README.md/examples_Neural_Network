@@ -29,3 +29,4 @@
 # And then all stars, so i get graphs with training and evaluation, below all parameters
 # I can see that all parameters are changing after every epoch and accuracy is around 86%
 # Now I can pick the best parameters, which is close to 88%
+# I also make predictions on X_test and reshaped them to accurate range for "classification_report"
