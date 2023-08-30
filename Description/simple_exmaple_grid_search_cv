@@ -7,9 +7,10 @@
 * Then I apply on target column names of flowers, my data is read, I have names of flowers and their features and all is labeled
 
 # Now I import train_test_split and get train and test set, I use iris.data as X and iris.target as y
-# Then I import GridSearchCV which is the model to search for best parameters
-# And I gonna import also models for training, (svm, RandomForestClassifier, LogisticRegression)
-# Now I gonna save models params, so I put some parameters and GridSearchCV will check every combination and return the best
+* Then I import GridSearchCV which is the model to search for best parameters
+* And I gonna import also models for training, (svm, RandomForestClassifier, LogisticRegression)
+* Now I gonna save models params, so I put some parameters and GridSearchCV will check every combination and return the best
+
 # First i set model name, then put model itself and finally parameters, I do it for my three models
 # When I have all "model_params" prepared, I can implement "GridSearchCV" 
 # So I start with create list for scores, than I start for loop for model names and model parameters in my saved params, with access to items
