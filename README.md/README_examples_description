@@ -5,8 +5,9 @@
 * Next I gonna plot columns to see how my data is distributed, I can see very different distribution only in column "fAlpha"
 
 # In other cases distribution is pretty much the same, with exception on "fLength", "fAsym" and "fM3Long"
-# Now I gonna split my data into train, test and valid sets, I use for it numpy split, first shuffling samples
-# First split will be on 60% of my data and next of 80% of my data, than I check size of my classes, I see that there is imbalance
+* Now I gonna split my data into train, test and valid sets, I use for it numpy split, first shuffling samples
+* First split will be on 60% of my data and next of 80% of my data, than I check size of my classes, I see that there is imbalance
+
 # I gonna use over sampling method, so I import "RandomOverSampler", next I create function that will oversample my data and scale them
 # So I create function "scale_dataset" and as arguments put (dataframe and oversample set to False), I gonna choose which sets I want to oversample
 # I define X and y variables, which will be columns from my dataframe, y as the last and X as rest of them
