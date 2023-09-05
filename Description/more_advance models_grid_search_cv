@@ -1,5 +1,6 @@
 # Grid_Search
-I gonna show how to search for best parameters in your model, with different examples
+* I gonna show how to search for best parameters in your model, with different examples
+
 # I gonna use different model with hyperparameters and my training data will be iris data
 # So first i import datasets and load iris data from datasets
 # Then I put iris data into pandas Dataframe and set columns as features of iris and set flower column as my target column
