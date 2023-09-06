@@ -16,9 +16,11 @@
 * Then I create object of class "RandomOverSampler" and use method "fit_resample" on X and y variables, I save it as X and y
 * Next I need to stack my both variables and create new data of them 
 * To do this I gonna use "numpy hstack", on X variable and y variable, but reshape into 2D object and save this operation as "data"  
-# I gonna return from my function new "data", but also X and y
+* I gonna return from my function new "data", but also X and y
+
 # Then I prepare train, valid and test sets, with use of my function "scale_dataset", for my train sets I set oversample 
-# But for valid and test sets I set (oversample to False), because I want to measure performance of my model with this sets
+* But for valid and test sets I set (oversample to False), because I want to measure performance of my model with this sets
+
 # Now when I have my sets I can import some model to measure their performance on my dataset, it will be(svm, LogisticRegression, KNeighborsClassifier and GaussianNB)
 # Then I import "GridSearchCV" which help me find the best parameters for my models
 # So first I put name of my model, then models itself, with some parameters that I want to mesure 
