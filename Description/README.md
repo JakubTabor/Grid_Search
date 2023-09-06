@@ -1,1 +1,28 @@
+**GRID SEARCH SIMPLE EXAMPLE**
+# Grid_Search
+* I gonna show how to search for best parameters in your model, with different examples
 
+# I gonna use different model with hyperparameters and my training data will be iris data
+* So first i import datasets and load iris data from datasets
+* Then I put iris data into pandas Dataframe and set columns as features of iris and set flower column as my target column
+* Then I apply on target column names of flowers, my data is read, I have names of flowers and their features and all is labeled
+
+# Now I import train_test_split and get train and test set, I use iris.data as X and iris.target as y
+* Then I import GridSearchCV which is the model to search for best parameters
+* And I gonna import also models for training, (svm, RandomForestClassifier, LogisticRegression)
+* Now I gonna save models params, so I put some parameters and GridSearchCV will check every combination and return the best
+* First i set model name, then put model itself and finally parameters, I do it for my three models
+
+# When I have all "model_params" prepared, I can implement "GridSearchCV" 
+* So I start with create list for scores, than I start for loop for model names and model parameters in my saved params, with access to items
+* Then I create object of GridSearchCV puting inside models and parameters, then cv parameter, where i epecify number of folds
+* I set "return_train_score to False", so it will not include training scores
+
+# Then I train GridSearchCV with (iris.data and iris.target), And not I choose which parameters will append in my list 
+* So I choose first model name, then best score which I get using "best_score_ from my model" and also best parameters using "best_params_ from my model"
+* I put my data into pd.DataFrame and pass previous filled scores list and columns for better description
+
+# And I get each model with best score and best parameters, scores are pretty high, but my data was not so complicated
+* This is a common technique when you search for best parameters for your model, I put only few parameters buy there are lot of parameters which you can check
+* Searching for best model and best parameters is an trail and error tehnic, You need to give different parameters to your model
+* And some parameters are not compatible with others, This is powerfull tehnic which can be used in every project to find best performance of your model
