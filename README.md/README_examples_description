@@ -22,9 +22,10 @@
 * But for valid and test sets I set (oversample to False), because I want to measure performance of my model with this sets
 
 # Now when I have my sets I can import some model to measure their performance on my dataset, it will be(svm, LogisticRegression, KNeighborsClassifier and GaussianNB)
-# Then I import "GridSearchCV" which help me find the best parameters for my models
-# So first I put name of my model, then models itself, with some parameters that I want to mesure 
-# Next I put parameters, there are parameters that have the most significant impact on model performance
+* Then I import "GridSearchCV" which help me find the best parameters for my models
+* So first I put name of my model, then models itself, with some parameters that I want to mesure 
+* Next I put parameters, there are parameters that have the most significant impact on model performance
+
 # I you want to get better accuracy you need to put more parameters and your model will check all of them
 # Now when I pass all params and model I save it all as "model_params" and put my data to "pd.DataFrame"
 # Then I gonna prepare "GridSearchCV", so I create list for all scores and make (for loop for model name and model params) in my variable that contain "model_params"
