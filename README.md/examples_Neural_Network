@@ -23,9 +23,10 @@
 * I save training process of my model as history to plot it later on graph
 
 # I use "X_train and y_train" as training data, than pass "epochs variable", I also pass "batch_size  variable"
-# Then I set "validation_split" at (0.2), now its time to set "hyperparameters"
-# I set epochs to (50), then I make for loop for "hyperparameters", first I set some numbers for "num_nodes"
-# Next I set some numbers for "dropout_prob", then for learning rate and for batch size, there are the most popular options
+* Then I set "validation_split" at (0.2), now its time to set "hyperparameters"
+* I set epochs to (50), then I make for loop for "hyperparameters", first I set some numbers for "num_nodes"
+* Next I set some numbers for "dropout_prob", then for learning rate and for batch size, there are the most popular options
+
 # I set print option for every parameter, so it gonna show all parameters under the graph
 # Then I make model training and call plot function on history variable of my model
 # I also make evaluation of my model on (X_valid and y_valid), I save it as "val_loss"
