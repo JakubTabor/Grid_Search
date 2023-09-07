@@ -12,11 +12,12 @@
 * And also I pass "learning rate" to specify later values, as well as "batch size" and "epochs"
 
 # Then I specify my model, it will be normal Neural network, so I call tensorflow keras Sequential model
-# But instead of passing exact values I gonna pass previous defined variables to specify them later in parameters training
-# I pass first "Dense layer" and put inside my variable responsible for neurons, then activation and shape, it will be ten classes in my dataset
-# Next I pass "Dropout layer" and put inside "variavle dropout_prob", which correspond for dropping neurons 
-# Then I pass another "Dense layer", same as previous and after also "Dropout layer"
-# And I pass last Output layer" with one neuron and activation "sigmoid"
+* But instead of passing exact values I gonna pass previous defined variables to specify them later in parameters training
+* I pass first "Dense layer" and put inside my variable responsible for neurons, then activation and shape, it will be ten classes in my dataset
+* Next I pass "Dropout layer" and put inside "variavle dropout_prob", which correspond for dropping neurons 
+* Then I pass another "Dense layer", same as previous and after also "Dropout layer"
+* And I pass last Output layer" with one neuron and activation "sigmoid"
+
 # Now I compile my model with optimizer as "adam" "tf.keras.optimizers.Adam" and add variable "lr" to specify later numbers for learning rate
 # And loss will be "binary_crossentropy" for my binary output, metrics as "accuracy"
 # I save training process of my model as history to plot it later on graph
