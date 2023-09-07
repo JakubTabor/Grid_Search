@@ -38,6 +38,7 @@
 * Now I can pick the best parameters, which is close to 88%
 
 # I also make predictions on X_test and reshaped them to accurate range for "classification_report"
-# Then I print "classification_report" and see that my (true and predicted class) are just a bit different, but model perform good
+* Then I print "classification_report" and see that my (true and predicted class) are just a bit different, but model perform good
+
 # In that case training results of hyperparameters are no so much different, but in the end I get model with the best parameters
-# Even if I get just a bit better model, searching for hyperparameters is always good option
+* Even if I get just a bit better model, searching for hyperparameters is always good option
