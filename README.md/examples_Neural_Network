@@ -7,9 +7,10 @@
 * Secound plot will be with (accuracy and validation accuracy) and also I named (x axis and y axis) as (Epoch and Accuracy)
 
 # Now when I have defined plot function I import tensorflow to build my model
-# I create function "train_model" and pass inside (X_train, y_train for training)
-# I pass also "num_nodes", so (neurons to define them later), I do exactly this same with (dropout_prob, to pass numbers later) 
-# And also I pass "learning rate" to specify later values, as well as "batch size" and "epochs"
+* I create function "train_model" and pass inside (X_train, y_train for training)
+* I pass also "num_nodes", so (neurons to define them later), I do exactly this same with (dropout_prob, to pass numbers later) 
+* And also I pass "learning rate" to specify later values, as well as "batch size" and "epochs"
+
 # Then I specify my model, it will be normal Neural network, so I call tensorflow keras Sequential model
 # But instead of passing exact values I gonna pass previous defined variables to specify them later in parameters training
 # I pass first "Dense layer" and put inside my variable responsible for neurons, then activation and shape, it will be ten classes in my dataset
