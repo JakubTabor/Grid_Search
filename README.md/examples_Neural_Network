@@ -34,8 +34,9 @@
 * This variable "least_loss_model" is equal to "model"
 
 # And then all stars, so i get graphs with training and evaluation, below all parameters
-# I can see that all parameters are changing after every epoch and accuracy is around 86%
-# Now I can pick the best parameters, which is close to 88%
+* I can see that all parameters are changing after every epoch and accuracy is around 86%
+* Now I can pick the best parameters, which is close to 88%
+
 # I also make predictions on X_test and reshaped them to accurate range for "classification_report"
 # Then I print "classification_report" and see that my (true and predicted class) are just a bit different, but model perform good
 # In that case training results of hyperparameters are no so much different, but in the end I get model with the best parameters
