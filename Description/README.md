@@ -27,6 +27,8 @@
 * Searching for best model and best parameters is an trail and error tehnic, You need to give different parameters to your model
 * And some parameters are not compatible with others, This is powerfull tehnic which can be used in every project to find best performance of your model
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
+
 **GRID SEARCH ADVANCE**
 # I gonna show some examples how to use GridSearchCV, on more complicated dataset and also check performance of some model and Neural Network
 
