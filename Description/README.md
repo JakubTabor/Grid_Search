@@ -111,6 +111,8 @@
 * I can see that all parameters are changing after every epoch and accuracy is around 86%
 * Now I can pick the best parameters, which is close to 88%
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
+
 # I also make predictions on X_test and reshaped them to accurate range for "classification_report"
 * Then I print "classification_report" and see that my (true and predicted class) are just a bit different, but model perform good
 
