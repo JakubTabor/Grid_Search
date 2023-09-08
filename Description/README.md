@@ -69,6 +69,8 @@
 # In output I get all my model with the best combination of parameters
 * With help of "DataFrame" my results are clearly shown, now if I want I can choose the best model which deal with this task
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
+
 **GRID SEARCH NEURAL NET**
 # Now I gonna build a Neural Network to deal with this task
 * I gonna search for the best parameters and write plot function to plot on graph all results
