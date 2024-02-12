@@ -3,6 +3,7 @@
 * I make simple data preparation in python and split the data
 
 # Next i fill all models parameters for hyperparameter tuning
+* Next i supply my model GridSearchCV and specify parameters
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
 
 # 
