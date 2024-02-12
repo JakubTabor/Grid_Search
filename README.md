@@ -12,6 +12,7 @@
 #
 #
 # ! []()
+# Now i gonna work of telescope hadron(background) and gamma(signal)
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
