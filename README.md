@@ -1,6 +1,8 @@
 # In this first simple example i wanna show how GridSearchCV works 
 * I gonna work on iris dataset, which contain flower target names and unique features for each example
-* I make simple data preparation in python and split the data 
+* I make simple data preparation in python and split the data
+
+# Next i fill all models parameters for hyperparameter tuning
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
 
 # 
