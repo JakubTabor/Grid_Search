@@ -14,7 +14,9 @@
 # ! []()
 # Now i gonna work of telescope hadron(background) and gamma(signal)
 * First i load my data and map class column into numbers
-* Then i check distribution columns using plt graphs 
+* Then i check distribution columns using plt graphs
+
+# Next i split my data into train, valid and test using numpy
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
