@@ -4,6 +4,7 @@
 
 # Next i fill all models parameters for hyperparameter tuning
 * Next i supply my model GridSearchCV and specify parameters
+*  Feed the iris data inside and fill scores list for all models best score and best parameters  
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
 
 # 
