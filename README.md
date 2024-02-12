@@ -1,4 +1,4 @@
-
+# In this first simple example i wanna show how GridSearchCV works 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
 
 # 
