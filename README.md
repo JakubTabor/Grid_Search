@@ -6,10 +6,12 @@
 * Next i supply my model GridSearchCV and specify parameters
 * Feed the iris data inside and fill scores list for all models best score and best parameters
 * And i put everything into DataFrame to get scores in that format
+
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
-
-# 
-
+#
+#
+#
+# ! []()
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
