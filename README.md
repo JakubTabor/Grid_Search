@@ -13,6 +13,7 @@
 #
 # ! []()
 # Now i gonna work of telescope hadron(background) and gamma(signal)
+* First i load my data and map class column into numbers
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
