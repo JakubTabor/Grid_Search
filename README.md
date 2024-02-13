@@ -27,7 +27,8 @@
 # Then i prepare and save parameters for my models
 * Hyperparameter tuning is faze when you pass all parameters which not collide with each other
 * And then i supply to GridSearchCV models and its parameters
-* Train them and append scores in scores list 
+* Train them and append scores in scores list
+* Next in DataFrame i specify that append only model and its best score and parameters
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
