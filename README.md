@@ -21,6 +21,7 @@
 
 # So next i create function which will sample to class balance and scale my dataframe
 * To do this i use RandomOverSampler and StandardScaler
+* To reshape and stack my data i use numpy
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
