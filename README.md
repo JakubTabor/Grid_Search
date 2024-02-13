@@ -23,6 +23,8 @@
 * To do this i use RandomOverSampler and StandardScaler
 * To reshape and stack my data i use numpy
 * I solo oversample X_train set, and valid, test no, to not leak any data to my model
+
+# Then i prepare and save parameters for my models
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
