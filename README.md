@@ -25,6 +25,7 @@
 * I solo oversample X_train set, and valid, test no, to not leak any data to my model
 
 # Then i prepare and save parameters for my models
+* Hyperparameter tuning is faze when you pass all parameters which not collide with each other
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
