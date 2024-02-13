@@ -17,6 +17,7 @@
 * Then i check distribution columns using plt graphs
 
 # Next i split my data into train, valid and test using numpy
+* And next i check value counts in class columns and see that there is class imbalance
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # 
