@@ -31,5 +31,7 @@
 * Next in DataFrame i specify that append only model and its best score and parameters
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
+# In this part i gonna create hyperparameter tuning for Neural Net
+
 # 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
