@@ -32,6 +32,6 @@
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
 
 # In this part i gonna create hyperparameter tuning for Neural Net
-
+* I create plot function, which show on graph history of model tuning
 # 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
