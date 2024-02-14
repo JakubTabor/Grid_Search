@@ -41,4 +41,5 @@
 # Now i specify all numbers in the hyperparameters for loop
 * And plot history from my function on returned history from my model
 * In the last part i specify that the validation will go to the last part and through all numbers
+* And finally i call classification report, where i see class imbalance in first and second class
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
