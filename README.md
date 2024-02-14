@@ -37,4 +37,6 @@
 # Then in function i create the model for the gamma, hadron dataset 
 * In function i specify all hyperparameters, which are: number of nodes, dropout percentage, learning rate and so on
 * I save history of my model training and return both: the model and its history
+
+# Now i specify all numbers in the hyperparameters for loop
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
