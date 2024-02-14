@@ -33,5 +33,5 @@
 
 # In this part i gonna create hyperparameter tuning for Neural Net
 * I create plot function, which show on graph history of model tuning
-# 
+# Then in function i create the model for the gamma, hadron dataset 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
