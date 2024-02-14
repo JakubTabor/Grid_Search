@@ -39,4 +39,5 @@
 * I save history of my model training and return both: the model and its history
 
 # Now i specify all numbers in the hyperparameters for loop
+* And plot history from my function on returned history from my model
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
