@@ -42,4 +42,5 @@
 * And plot history from my function on returned history from my model
 * In the last part i specify that the validation will go to the last part and through all numbers
 * And finally i call classification report, where i see class imbalance in first and second class
+* The average score is pretty high in f1-score
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
