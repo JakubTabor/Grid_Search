@@ -33,5 +33,7 @@
 
 # In this part i gonna create hyperparameter tuning for Neural Net
 * I create plot function, which show on graph history of model tuning
+
 # Then in function i create the model for the gamma, hadron dataset 
+* In function i specify all hyperparameters, which are: number of nodes, dropout percentage, learning rate and so on
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Grid_Search_png.png)
