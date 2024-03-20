@@ -33,7 +33,8 @@
 * And then i supply to GridSearchCV models and its parameters
 * Train them and append scores in scores list
 * Next in DataFrame i specify that append only model and its best score and parameters
-![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters_adv.png)
+
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/GridSearchCV.png)
 
 # In this part i gonna create hyperparameter tuning for Neural Net
 * I create plot function, which show on graph history of model tuning
