@@ -45,6 +45,8 @@
 * In function i specify all hyperparameters, which are: number of nodes, dropout percentage, learning rate and so on
 * I save history of my model training and return both: the model and its history
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/train_model_function.png)
+
 # Now i specify all numbers in the hyperparameters for loop
 * And plot history from my function on returned history from my model
 * In the last part i specify that the validation will go to the last part and through all numbers
