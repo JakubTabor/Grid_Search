@@ -7,7 +7,6 @@
 * Feed the iris data inside and fill scores list for all models best score and best parameters
 * And i put everything into DataFrame to get scores in that format
 
-![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/Parameters.png)
 #
 #
 #
@@ -35,6 +34,7 @@
 * Next in DataFrame i specify that append only model and its best score and parameters
 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/GridSearchCV.png)
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/model_scores.png)
 
 # In this part i gonna create hyperparameter tuning for Neural Net
 * I create plot function, which show on graph history of model tuning
