@@ -11,7 +11,7 @@
 #
 #
 #
-# ! []()
+# [2.Grid search: Telescope data Neural net](https://github.com/JakubTabor/Grid_Search/blob/main/GridSearchCV_magic_gamma_telescope.ipynb)
 # Now i gonna work of telescope hadron(background) and gamma(signal)
 * First i load my data and map class column into numbers
 * Then i check distribution columns using plt graphs
