@@ -26,6 +26,8 @@
 * To reshape and stack my data i use numpy
 * I solo oversample X_train set, and valid, test no, to not leak any data to my model
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/scale_sampling_function.png)
+
 # Then i prepare and save parameters for my models
 * Hyperparameter tuning is faze when you pass all parameters which not collide with each other
 * And then i supply to GridSearchCV models and its parameters
