@@ -54,4 +54,5 @@
 * The average score is pretty high in f1-score
 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/hyper_parameters.png)
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/function_graph.png)
 
