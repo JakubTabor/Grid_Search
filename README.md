@@ -55,4 +55,5 @@
 
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/hyper_parameters.png)
 ![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/function_graph.png)
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/classification_report.png)
 
