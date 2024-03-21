@@ -53,3 +53,5 @@
 * And finally i call classification report, where i see class imbalance in first and second class
 * The average score is pretty high in f1-score
 
+![](https://github.com/JakubTabor/Grid_Search/blob/main/Images/magic_gamma_telescope/hyper_parameters.png)
+
